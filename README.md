@@ -1,4 +1,4 @@
-# Criteria:
+# Challenge Criteria:
 1. Define enums for Food:
     - Type (Soup, Stew, Gumbo)
     - Main Ingredient (Mushrooms, Chicken, Carrots)
